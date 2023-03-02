@@ -96,7 +96,7 @@ body {
   }
   
 .logo {
-    height: 1.8em;
+    height: 3.8em;
     margin: 1;
     padding-top: 0;
   }
@@ -104,6 +104,8 @@ body {
 .titolo{
   padding-left: 4.8em;
   margin-top: -2.5em;
+  display: flex;
+  align-items: center;
 }
 
 .titolo h5 {
